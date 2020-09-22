@@ -22,6 +22,8 @@
 .settings/
 .vscode/
 
+*.jks
+
 # Flutter repo-specific
 /bin/cache/
 /bin/mingit/
